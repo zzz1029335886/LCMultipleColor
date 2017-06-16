@@ -6,9 +6,9 @@
 //  Copyright © 2017年 凌创科技. All rights reserved.
 //
 
-#import <UIKit/UIKit.h>
+#import "LCMultipleColorViewController.h"
 
-@interface ViewController : UIViewController
+@interface ViewController : LCMultipleColorViewController
 
 
 @end

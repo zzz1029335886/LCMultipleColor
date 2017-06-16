@@ -14,6 +14,13 @@
 		684D9D391EF3BBAC0014EB4D /* LCMultipleColor.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 684D9D371EF3BBAC0014EB4D /* LCMultipleColor.xcdatamodeld */; };
 		684D9D3B1EF3BBAC0014EB4D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 684D9D3A1EF3BBAC0014EB4D /* Assets.xcassets */; };
 		684D9D3E1EF3BBAC0014EB4D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 684D9D3C1EF3BBAC0014EB4D /* LaunchScreen.storyboard */; };
+		684D9D4B1EF3BCF50014EB4D /* LCMultipleColorNavigationController.m in Sources */ = {isa = PBXBuildFile; fileRef = 684D9D4A1EF3BCF50014EB4D /* LCMultipleColorNavigationController.m */; };
+		684D9D4E1EF3BD520014EB4D /* LCMultipleColorNavigationController+MultipleColor.m in Sources */ = {isa = PBXBuildFile; fileRef = 684D9D4D1EF3BD520014EB4D /* LCMultipleColorNavigationController+MultipleColor.m */; };
+		684D9D511EF3BD780014EB4D /* LCMultipleColorViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 684D9D501EF3BD780014EB4D /* LCMultipleColorViewController.m */; };
+		684D9D541EF3BDA70014EB4D /* LCMultipleColorConfig.m in Sources */ = {isa = PBXBuildFile; fileRef = 684D9D531EF3BDA70014EB4D /* LCMultipleColorConfig.m */; };
+		684D9D571EF3BE8B0014EB4D /* LCTopWindowViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 684D9D561EF3BE8B0014EB4D /* LCTopWindowViewController.m */; };
+		684D9D5B1EF3C4300014EB4D /* btn_back_black.png in Resources */ = {isa = PBXBuildFile; fileRef = 684D9D591EF3C4300014EB4D /* btn_back_black.png */; };
+		684D9D5C1EF3C4300014EB4D /* btn_back_white.png in Resources */ = {isa = PBXBuildFile; fileRef = 684D9D5A1EF3C4300014EB4D /* btn_back_white.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +35,18 @@
 		684D9D3A1EF3BBAC0014EB4D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		684D9D3D1EF3BBAC0014EB4D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		684D9D3F1EF3BBAC0014EB4D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		684D9D491EF3BCF50014EB4D /* LCMultipleColorNavigationController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LCMultipleColorNavigationController.h; sourceTree = "<group>"; };
+		684D9D4A1EF3BCF50014EB4D /* LCMultipleColorNavigationController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LCMultipleColorNavigationController.m; sourceTree = "<group>"; };
+		684D9D4C1EF3BD520014EB4D /* LCMultipleColorNavigationController+MultipleColor.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "LCMultipleColorNavigationController+MultipleColor.h"; sourceTree = "<group>"; };
+		684D9D4D1EF3BD520014EB4D /* LCMultipleColorNavigationController+MultipleColor.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "LCMultipleColorNavigationController+MultipleColor.m"; sourceTree = "<group>"; };
+		684D9D4F1EF3BD780014EB4D /* LCMultipleColorViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LCMultipleColorViewController.h; sourceTree = "<group>"; };
+		684D9D501EF3BD780014EB4D /* LCMultipleColorViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LCMultipleColorViewController.m; sourceTree = "<group>"; };
+		684D9D521EF3BDA70014EB4D /* LCMultipleColorConfig.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LCMultipleColorConfig.h; sourceTree = "<group>"; };
+		684D9D531EF3BDA70014EB4D /* LCMultipleColorConfig.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LCMultipleColorConfig.m; sourceTree = "<group>"; };
+		684D9D551EF3BE8B0014EB4D /* LCTopWindowViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LCTopWindowViewController.h; sourceTree = "<group>"; };
+		684D9D561EF3BE8B0014EB4D /* LCTopWindowViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LCTopWindowViewController.m; sourceTree = "<group>"; };
+		684D9D591EF3C4300014EB4D /* btn_back_black.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = btn_back_black.png; sourceTree = "<group>"; };
+		684D9D5A1EF3C4300014EB4D /* btn_back_white.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = btn_back_white.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +79,7 @@
 		684D9D2A1EF3BBAC0014EB4D /* LCMultipleColor */ = {
 			isa = PBXGroup;
 			children = (
+				684D9D451EF3BCCF0014EB4D /* LCMultipleColor */,
 				684D9D2E1EF3BBAC0014EB4D /* AppDelegate.h */,
 				684D9D2F1EF3BBAC0014EB4D /* AppDelegate.m */,
 				684D9D311EF3BBAC0014EB4D /* ViewController.h */,
@@ -80,6 +100,57 @@
 				684D9D2C1EF3BBAC0014EB4D /* main.m */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		684D9D451EF3BCCF0014EB4D /* LCMultipleColor */ = {
+			isa = PBXGroup;
+			children = (
+				684D9D581EF3C4300014EB4D /* Source */,
+				684D9D471EF3BCE10014EB4D /* Category */,
+				684D9D481EF3BCE10014EB4D /* Model */,
+				684D9D461EF3BCCF0014EB4D /* Controller */,
+			);
+			path = LCMultipleColor;
+			sourceTree = "<group>";
+		};
+		684D9D461EF3BCCF0014EB4D /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+				684D9D551EF3BE8B0014EB4D /* LCTopWindowViewController.h */,
+				684D9D561EF3BE8B0014EB4D /* LCTopWindowViewController.m */,
+				684D9D491EF3BCF50014EB4D /* LCMultipleColorNavigationController.h */,
+				684D9D4A1EF3BCF50014EB4D /* LCMultipleColorNavigationController.m */,
+				684D9D4F1EF3BD780014EB4D /* LCMultipleColorViewController.h */,
+				684D9D501EF3BD780014EB4D /* LCMultipleColorViewController.m */,
+			);
+			path = Controller;
+			sourceTree = "<group>";
+		};
+		684D9D471EF3BCE10014EB4D /* Category */ = {
+			isa = PBXGroup;
+			children = (
+				684D9D4C1EF3BD520014EB4D /* LCMultipleColorNavigationController+MultipleColor.h */,
+				684D9D4D1EF3BD520014EB4D /* LCMultipleColorNavigationController+MultipleColor.m */,
+			);
+			path = Category;
+			sourceTree = "<group>";
+		};
+		684D9D481EF3BCE10014EB4D /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				684D9D521EF3BDA70014EB4D /* LCMultipleColorConfig.h */,
+				684D9D531EF3BDA70014EB4D /* LCMultipleColorConfig.m */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		684D9D581EF3C4300014EB4D /* Source */ = {
+			isa = PBXGroup;
+			children = (
+				684D9D591EF3C4300014EB4D /* btn_back_black.png */,
+				684D9D5A1EF3C4300014EB4D /* btn_back_white.png */,
+			);
+			path = Source;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -142,6 +213,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				684D9D3E1EF3BBAC0014EB4D /* LaunchScreen.storyboard in Resources */,
+				684D9D5C1EF3C4300014EB4D /* btn_back_white.png in Resources */,
+				684D9D5B1EF3C4300014EB4D /* btn_back_black.png in Resources */,
 				684D9D3B1EF3BBAC0014EB4D /* Assets.xcassets in Resources */,
 				684D9D361EF3BBAC0014EB4D /* Main.storyboard in Resources */,
 			);
@@ -155,9 +228,14 @@
 			buildActionMask = 2147483647;
 			files = (
 				684D9D331EF3BBAC0014EB4D /* ViewController.m in Sources */,
+				684D9D571EF3BE8B0014EB4D /* LCTopWindowViewController.m in Sources */,
+				684D9D511EF3BD780014EB4D /* LCMultipleColorViewController.m in Sources */,
 				684D9D301EF3BBAC0014EB4D /* AppDelegate.m in Sources */,
+				684D9D4B1EF3BCF50014EB4D /* LCMultipleColorNavigationController.m in Sources */,
 				684D9D391EF3BBAC0014EB4D /* LCMultipleColor.xcdatamodeld in Sources */,
+				684D9D4E1EF3BD520014EB4D /* LCMultipleColorNavigationController+MultipleColor.m in Sources */,
 				684D9D2D1EF3BBAC0014EB4D /* main.m in Sources */,
+				684D9D541EF3BDA70014EB4D /* LCMultipleColorConfig.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -278,7 +356,9 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				DEVELOPMENT_TEAM = 9L8XTYH38F;
+				ENABLE_STRICT_OBJC_MSGSEND = NO;
 				INFOPLIST_FILE = LCMultipleColor/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.litchon.LCMultipleColor;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -290,7 +370,9 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				DEVELOPMENT_TEAM = 9L8XTYH38F;
+				ENABLE_STRICT_OBJC_MSGSEND = NO;
 				INFOPLIST_FILE = LCMultipleColor/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.litchon.LCMultipleColor;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -316,6 +398,7 @@
 				684D9D441EF3BBAC0014EB4D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 
